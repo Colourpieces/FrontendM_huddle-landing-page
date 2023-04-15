@@ -91,6 +91,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
+- [How to include SVG-Graphics in HTML (Writen in german)](https://kulturbanause.de/blog/svg-grafiken-in-websiteshtml-seiten-einbinden/) - Gives a great overview over the different ways to include SVG's in your HTML code, with hint about the respective advantage and disadvantages.
+- [HTML Inputs and Labels: A Love Story](https://css-tricks.com/html-inputs-and-labels-a-love-story/) - This article gives explainations about the usage of Inputs and Labels and why they are used together.
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
