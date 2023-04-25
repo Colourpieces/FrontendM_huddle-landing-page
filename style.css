@@ -26,3 +26,37 @@ h1,
 h2 {
   font-family: "Poppins", sans-serif;
 }
+
+footer {
+  background-color: var(--footer-bg-clr);
+  color: white;
+}
+
+li {
+  list-style-type: none;
+  margin-bottom: 1rem;
+}
+
+/*li > * {
+  display: inline;
+  margin-right: 1rem;
+}*/
+
+a {
+  color: white;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+.contact-wrapper {
+  margin-bottom: 3rem;
+}
+
+.contact {
+  display: grid;
+  grid-template-columns: 5ch 1fr;
+}
+
+.contact-text {
+  margin-block: 0;
+}
